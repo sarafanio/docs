@@ -355,7 +355,10 @@ Storage peer will receive reward based on distance between its random id and con
 
 We need less than $200,000 to finish what we want. So we are starting our ICO.
 
-### ICO stages
+### ICO
+
+Token emitted by sending ethereum to SRFN token contract address `0x957D0b2E4afA74A49bbEa4d7333D13c0b11af60F`.
+There is no need for KYC because we are for privacy.
 
 Initial token price will be ~$0.0001. Target price is ~$0.01-$0.02.
 
